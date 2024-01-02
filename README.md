@@ -10,6 +10,8 @@ You will need to install inquirer to make this application work. Alternatively, 
 ## Usage
 Download and after installing all dependencies, run node index.js
 
+A test output file is included in the output folder.
+
 ## License
  The following license was used:MIT
 
